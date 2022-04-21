@@ -115,12 +115,7 @@ public class Flipkart extends BaseClass {
 			System.out.println("The Maximum Number is "+a[l.size()-1]);
 		}
 		
-	@Test
-	private void test5() {
-		System.out.println("modifing from jegan");
-		System.out.println("Git checkout from branch test");
-
-	}
+	
 	
 	
 	
